@@ -1,0 +1,55 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/6c/11/e3/6c11e35213adf79ef32bc31f75897f58.gif);
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+section nav ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.home-about-blog ul li {
+   display: inline-block;
+}
+
+
+.home-about-blog ul li a{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-decoration: none;
+}
+
+.home-about-blog ul li a:hover{
+    color: green;
+}
+
+.emoji{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height:auto;
+}
+
+.h1-intro{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    color: white;
+    margin: 60px;
+    padding: 0px;
+}
+

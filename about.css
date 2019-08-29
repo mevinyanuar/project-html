@@ -1,0 +1,57 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/6c/11/e3/6c11e35213adf79ef32bc31f75897f58.gif);
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+section nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+section nav ul li{
+    display: inline-block;
+}
+
+section nav ul li a {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-decoration: none;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+}
+.skill ul li{
+    display: inline-block;
+    color: white;
+    
+}
+.skill{
+    text-align: center;
+}
+
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+    line-height: 100%;
+}
+
+.footer{
+    text-align: center;
+    color: white;
+    margin: 100px;
+    padding: 0px;
+}
+
